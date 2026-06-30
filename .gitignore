@@ -1,0 +1,91 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+client/.env
+server/.env
+
+# Keep example env files
+!.env.example
+!client/.env.example
+!server/.env.example
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Runtime Files
+# =========================
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# =========================
+# Build Output
+# =========================
+dist/
+build/
+client/dist/
+server/dist/
+
+# =========================
+# Coverage Reports
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# Cache Files
+# =========================
+.cache/
+.parcel-cache/
+.eslintcache
+.vite/
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE and Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+
+# =========================
+# Optional package manager files
+# =========================
+.pnp
+.pnp.js
+
+# =========================
+# Miscellaneous
+# =========================
+.vercel
+.netlify
