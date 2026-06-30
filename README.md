@@ -297,6 +297,3 @@ Choose your preferred currency from the Profile page. All values in the Dashboar
 
 ---
 
-## License
-
-This project is licensed under the **ISC License**.
