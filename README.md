@@ -19,7 +19,6 @@
 - [Gemini AI Advice](#gemini-ai-advice)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
